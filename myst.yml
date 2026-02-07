@@ -18,6 +18,13 @@ project:
     - title: Introduction
       children:
         - file: docs/Introduction/Genesis.md
+        - file: docs/Introduction/Exodus.md
+        - file: docs/Introduction/Leviticus.md
+        - file: docs/Introduction/Acts.md
+    - title: The Old Testment
+      children:
+        - title: Genesis
+        - file: docs/The_OLD_Testament/01_Genesis/Chapter_001.md
 site:
   template: book-theme
   parts:
