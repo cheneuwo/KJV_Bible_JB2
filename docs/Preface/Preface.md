@@ -1,0 +1,5 @@
+# Preface
+
+Never before have the findings of archaeology been linked so extensively with the Scriptures as in The Reader's Digest illustrated edition of the Holy Bible. It contains more than five hundred illustrations and captions that bring the background of history and the insights of archaeology to Biblical narratives and themes.
+
+This edition became possible in 1961, when scholars completed a six-year project of compiling and describing photographs of ancient artifacts, monuments, inscriptions, works of art, and archaeological sites to illustrate -- that is "to set in a clear light" -- innumerable subjects in the Bible. With this vast materials before them, the editors of The Reader's Digest have worked for many years to develop and publish The Reader's Digest illustrated edition of the Holy Bible.

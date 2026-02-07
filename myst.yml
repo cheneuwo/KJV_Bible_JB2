@@ -2,14 +2,20 @@
 version: 1
 project:
   id: 43855b76-3dbb-4f7c-ba42-65650c487f92
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: Holy Bible, King James Version
+  description: 
+  keywords: 
+    - Holy Bible
+    - KJV
+  authors: Elvis C.S. Chen, PhD, LEL
   github: https://github.com/cheneuwo/KJV_Bible_JB2
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: docs/Preface/Preface.md
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
+  options:
+    favicon: cross_olive_wood.ico
+    logo: cross_olive_wood.png
