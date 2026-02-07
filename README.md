@@ -6,6 +6,7 @@ King James Version
 
 1611
 
+https://cheneuwo.github.io/KJV_Bible_JB2
 
 Original in Jupyter Book V1:
 https://cheneuwo.github.io/Bible-in-Markdown/intro.html
