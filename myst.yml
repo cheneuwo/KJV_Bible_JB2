@@ -14,6 +14,7 @@ project:
     - file: docs/Preface/Preface.md
     - file: docs/Preface/Howto.md
     - file: docs/Preface/Alphabetical.md
+    - file: docs/Preface/Introduction.md
 site:
   template: book-theme
   parts:
