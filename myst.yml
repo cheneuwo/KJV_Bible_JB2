@@ -12,6 +12,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: docs/Preface/Preface.md
+    - file: docs/Preface/Howto.md
 site:
   template: book-theme
   parts:
