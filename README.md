@@ -6,7 +6,10 @@ King James Version
 
 1611
 
+
+Original in Jupyter Book V1:
 https://cheneuwo.github.io/Bible-in-Markdown/intro.html
+
 
 ## Timeline
 - Prject initiated: August 23, 2025
